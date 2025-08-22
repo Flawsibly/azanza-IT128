@@ -1,5 +1,3 @@
-# azanza-IT128
-# azanza-IT128
-# azanza-IT128
-" azanza-IT128" 
-"# azanza-IT128" 
+# Angela Bea G. Azanza
+# ITS152L FOPM01
+# BSIT
